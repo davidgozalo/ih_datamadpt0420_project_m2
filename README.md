@@ -2,7 +2,7 @@
 ​
 The objective of this project is to perform an exploratory analysis on a diamonds database in order to be familiar with the data and use it in further projects
 ​
-[![Diamonds](https://www.youtube.com/watch?v=2W-nmKpbTr8)])
+[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
 ​
 ## Data sources 
  - Database with the diamonds information.
