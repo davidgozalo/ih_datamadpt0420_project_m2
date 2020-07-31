@@ -19,7 +19,7 @@ The objective of this project is to perform an exploratory analysis on a diamond
 - Python libraries: Pandas, Numpy, Matplotlib, Seaborn
  
 ## Tableau Public Dashboard
-- A Tableau Dashboard has been created that can be accessed atthrough this [link](https://public.tableau.com/profile/david.gozalo#!/vizhome/ExploratoryAnalysis_15961337532230/Damonds?publish=yes)
+- A Tableau Dashboard has been created that can be accessed through this [link](https://public.tableau.com/profile/david.gozalo#!/vizhome/ExploratoryAnalysis_15961337532230/Damonds?publish=yes)
 
 
 
