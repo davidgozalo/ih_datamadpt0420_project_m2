@@ -3,6 +3,13 @@
 The objective of this project is to perform an exploratory analysis on a diamonds database in order to be familiar with the data and use it in further projects
 
 ​
+![Image](https://www.closerweekly.com/wp-content/uploads/2018/12/marilyn-monroe-pic.jpg?w=817&resize=817%2C1024)
+
+![Image](https://www.closerweekly.com/wp-content/uploads/2018/12/marilyn-monroe-pic.jpg?w=817&resize=817%2C1024)
+
+[![Image](https://www.closerweekly.com/wp-content/uploads/2018/12/marilyn-monroe-pic.jpg?w=817&resize=817%2C1024)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)
+
+
 [![Diamonds](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)
 
 ## Data sources 
