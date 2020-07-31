@@ -3,7 +3,7 @@
 The objective of this project is to perform an exploratory analysis on a diamonds database in order to be familiar with the data and use it in further projects
 
 ​
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)
+[![Diamonds](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)
 
 ## Data sources 
  - Database with the diamonds information.
