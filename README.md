@@ -4,7 +4,7 @@ The objective of this project is to perform an exploratory analysis on a diamond
 
 ​
 
-[![Image](https://www.closerweekly.com/wp-content/uploads/2018/12/marilyn-monroe-pic.jpg?w=817&resize=817%2C512)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)]
+[![Image](https://www.closerweekly.com/wp-content/uploads/2018/12/marilyn-monroe-pic.jpg?w=817&resize=817%2C600)](https://www.youtube.com/watch?v=2W-nmKpbTr8/0.jpg)]
 
 
 
