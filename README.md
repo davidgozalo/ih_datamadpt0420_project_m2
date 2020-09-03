@@ -17,6 +17,11 @@ The objective of this project is to perform an exploratory analysis on a diamond
 ## Tools
 - jupyter lab and Tableau
 - Python libraries: Pandas, Numpy, Matplotlib, Seaborn
+
+## Jupyter Notebooks
+- A Notebook named "First Analysis" explores the data in a descriptive and grapphical way
+- A Notebook named "Hypothesis Testing Analysis" produces some simple hypothesis testing
+
  
 ## Tableau Public Dashboard
 - A Tableau Dashboard has been created that can be accessed through this [link](https://public.tableau.com/profile/david.gozalo#!/vizhome/ExploratoryAnalysis_15961337532230/Damonds?publish=yes)
